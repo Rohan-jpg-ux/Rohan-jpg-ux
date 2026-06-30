@@ -1,4 +1,38 @@
-gent](https://github.com/Rohan-jpg-ux/Ai-Dev-Agent)
+# Hi, I'm Rohan Vishwanath 👋
+
+**Senior Solutions Engineer** | Payments · API Platform · Distributed Systems  
+📍 Plano, TX  |  🔗 [LinkedIn](https://linkedin.com/in/rohan-vishwanath)  |  No relocation
+
+---
+
+## 🚀 What I Build
+
+I design and ship backend systems and integrations that run at scale — payment APIs, event-driven pipelines, and AI agents. Most recently:
+
+- **Inspire Brands** — Architected a Java/Spring Boot + Kafka OMS processing **100K+ orders/min** across 40 countries, deployed on AWS EKS with DynamoDB and Redis
+- **Expedia Group** — Built API platform integrations handling **50K+ req/sec**, onboarding 100+ global partners
+
+---
+
+## 🤖 Featured Projects
+
+### [Enterprise Voice AI Agent](https://github.com/Rohan-jpg-ux/enterprise-voice-ai-agent)
+Full-stack voice AI system for enterprise call automation  
+`VAPI` · `ElevenLabs` · `Claude API` · `Twilio` · `Node.js` · `React`
+
+### [CareerPilot AI](https://github.com/Rohan-jpg-ux/careerpilot-ai)
+7-agent AI pipeline for job search automation — resume tailoring, outreach, application tracking  
+`FastAPI` · `Claude API` · `Playwright` · `Pinecone` · `PostgreSQL` · 25 endpoints · 55-test suite
+
+### [Agentic EDA Pipeline](https://github.com/Rohan-jpg-ux/agentic-eda-pipeline)
+AI-driven exploratory data analysis pipeline with autonomous insight generation  
+`Python` · `Claude API` · `Pandas` · `Agentic AI`
+
+### [Dockerized AI Agent](https://github.com/Rohan-jpg-ux/dockerized-ai-agent)
+Containerized AI agent system for portable, production-ready deployment  
+`Docker` · `Python` · `AI Agent` · `REST API`
+
+### [AI Dev Agent](https://github.com/Rohan-jpg-ux/Ai-Dev-Agent)
 Autonomous development agent for code generation and software engineering tasks  
 `Python` · `Claude API` · `Agentic AI` · `Code Generation`
 
