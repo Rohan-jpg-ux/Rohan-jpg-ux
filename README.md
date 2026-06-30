@@ -1,7 +1,7 @@
 # Hi, I'm Rohan Vishwanath 👋
 
 **Senior Solutions Engineer** | Payments · API Platform · Distributed Systems  
-📍 Plano, TX  |  🔗 [LinkedIn](https://linkedin.com/in/rohan-vishwanath)  |  No relocation
+📍 Plano, TX  |  🔗 [LinkedIn](https://www.linkedin.com/in/vishwanath-rohan)  |  No relocation
 
 ---
 
@@ -67,4 +67,4 @@ Event-driven data pipeline on AWS
 Open to **Senior SE**, **Solutions Architect**, and **Senior SWE** roles in fintech, API platform, and AI infrastructure.  
 Based in **Plano, TX** — no relocation required.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan_Vishwanath-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rohan-vishwanath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan_Vishwanath-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishwanath-rohan)
